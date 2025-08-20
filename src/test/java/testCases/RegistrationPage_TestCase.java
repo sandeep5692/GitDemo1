@@ -50,6 +50,8 @@ public class RegistrationPage_TestCase {
 		rp.Zip("878987");
 		rp.ContactNumber("8897090989");
 		rp.CreateAccount();
+		System.out.println("New");
+		
 
 	}
 
